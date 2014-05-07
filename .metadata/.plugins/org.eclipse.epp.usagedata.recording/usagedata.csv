@@ -1,51 +1,51 @@
 what,kind,bundleId,bundleVersion,description,time
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086189
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086223
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086281
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086325
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086362
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086393
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086447
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086491
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086524
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086557
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086608
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086726
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086774
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086807
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086853
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086896
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086927
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086961
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780086995
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087034
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087065
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087099
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087141
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087240
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087293
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087327
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087369
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087410
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087442
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087479
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087523
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087561
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087598
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087640
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087682
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087717
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087755
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087792
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087831
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087920
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087961
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780087993
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780088035
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780088078
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780088111
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780088151
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780088225
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780088274
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780088308
-executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1398780088344
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.300.v201104272153,"org.eclipse.wst.jsdt.manipulation",1399468883608
+started,bundle,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui",1399468883608
+started,bundle,org.eclipse.wst.jsdt.web.core,1.0.401.v201108152113,"org.eclipse.wst.jsdt.web.core",1399468883608
+started,bundle,org.eclipse.wst.jsdt.web.ui,1.0.401.v201108152113,"org.eclipse.wst.jsdt.web.ui",1399468883610
+started,bundle,org.eclipse.wst.sse.core,1.1.602.v201112071516,"org.eclipse.wst.sse.core",1399468883611
+started,bundle,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui",1399468883613
+started,bundle,org.eclipse.wst.validation,1.2.303.v201202090300,"org.eclipse.wst.validation",1399468883613
+started,bundle,org.eclipse.wst.web,1.1.501.v201201190400,"org.eclipse.wst.web",1399468883614
+started,bundle,org.eclipse.wst.xml.core,1.1.602.v201201091944,"org.eclipse.wst.xml.core",1399468883617
+started,bundle,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui",1399468883617
+started,bundle,org.maven.ide.eclipse.wtp,0.15.2.20120306-2040,"org.maven.ide.eclipse.wtp",1399468883617
+started,bundle,org.eclipse.egit.core,1.3.0.201202151440-r,"org.eclipse.egit.core",1399468883620
+started,bundle,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui",1399468883623
+started,bundle,org.eclipse.jgit,1.3.0.201202151440-r,"org.eclipse.jgit",1399468883623
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.8.4.v20130429-0100,"org.eclipse.mylyn.bugzilla.core",1399468883624
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.8.4.v20130429-0100,"org.eclipse.mylyn.bugzilla.ui",1399468883626
+started,bundle,org.eclipse.mylyn.commons.core,3.8.4.v20130429-0100,"org.eclipse.mylyn.commons.core",1399468883626
+started,bundle,org.eclipse.mylyn.commons.net,3.8.4.v20130429-0100,"org.eclipse.mylyn.commons.net",1399468883626
+started,bundle,org.eclipse.mylyn.commons.notifications.core,1.0.4.v20130429-0100,"org.eclipse.mylyn.commons.notifications.core",1399468883626
+started,bundle,org.eclipse.mylyn.commons.notifications.feed,1.0.4.v20130429-0100,"org.eclipse.mylyn.commons.notifications.feed",1399468883627
+started,bundle,org.eclipse.mylyn.commons.ui,3.8.4.v20130429-0100,"org.eclipse.mylyn.commons.ui",1399468883628
+started,bundle,org.eclipse.mylyn.commons.workbench,3.8.4.v20130429-0100,"org.eclipse.mylyn.commons.workbench",1399468883630
+started,bundle,org.eclipse.mylyn.context.core,3.8.4.v20130429-0100,"org.eclipse.mylyn.context.core",1399468883630
+started,bundle,org.eclipse.mylyn.context.tasks.ui,3.8.4.v20130429-0100,"org.eclipse.mylyn.context.tasks.ui",1399468883630
+started,bundle,org.eclipse.mylyn.github.ui,1.3.0.201202151440-r,"org.eclipse.mylyn.github.ui",1399468883632
+started,bundle,org.eclipse.mylyn.monitor.ui,3.8.4.v20130429-0100,"org.eclipse.mylyn.monitor.ui",1399468883633
+started,bundle,org.eclipse.mylyn.tasks.ui,3.8.4.v20130429-0100,"org.eclipse.mylyn.tasks.ui",1399468883636
+started,bundle,org.eclipse.mylyn.team.ui,3.8.4.v20130429-0100,"org.eclipse.mylyn.team.ui",1399468883638
+os,sysinfo,,,"macosx",1399468883643
+arch,sysinfo,,,"x86_64",1399468883643
+ws,sysinfo,,,"cocoa",1399468883643
+locale,sysinfo,,,"pt_BR",1399468883643
+processors,sysinfo,,,"4",1399468883643
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1399468883643
+java.runtime.version,sysinfo,,,"1.6.0_65-b14-462-11M4609",1399468883643
+java.specification.name,sysinfo,,,"Java Platform API Specification",1399468883643
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1399468883643
+java.specification.version,sysinfo,,,"1.6",1399468883643
+java.vendor,sysinfo,,,"Apple Inc.",1399468883643
+java.version,sysinfo,,,"1.6.0_65",1399468883643
+java.vm.info,sysinfo,,,"mixed mode",1399468883643
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1399468883643
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1399468883643
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1399468883643
+java.vm.specification.version,sysinfo,,,"1.0",1399468883643
+java.vm.vendor,sysinfo,,,"Apple Inc.",1399468883643
+java.vm.version,sysinfo,,,"20.65-b04-462",1399468883643
+started,bundle,org.eclipse.m2e.usagedata,1.0.200.20111228-1245,"org.eclipse.m2e.usagedata",1399468883648
+started,bundle,org.eclipse.jst.common.frameworks,1.1.501.v201201190400,"org.eclipse.jst.common.frameworks",1399468888949
+started,bundle,org.eclipse.wst.dtd.core,1.1.501.v201107252021,"org.eclipse.wst.dtd.core",1399468891020
