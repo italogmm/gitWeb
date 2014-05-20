@@ -25,6 +25,7 @@ a.color-1:hover {text-decoration:underline;}
 .color-2 { color:#1e1e1e; font-size:12px; line-height:20px;}
 .color-3 { color:#a83715; font-size:30px; line-height:36px; letter-spacing:-1px;}
 
+h4.subtitulo { font-size:40px; line-height:48px; color:#1e1e1e; font-weight:normal; letter-spacing:-2px;}
 h2 { font-size:40px; line-height:48px; color:#1e1e1e; font-weight:normal; letter-spacing:-2px;}
 h3 { font-size:53px; line-height:65px; color:#1e1e1e; font-weight:normal; letter-spacing:-2px;}
 
@@ -71,7 +72,7 @@ ul.menu li {float:left; line-height:20px; margin:0px 0 0px 40px;}
 ul.menu li a {font-size:16px; line-height:20px; color:#fff; display:inline-block; }
 ul.menu li a:hover, ul.menu li.current a {color:#a83715;}
 
-#header-content {width:100%; background:url(../images/header-content-bg.gif) 0 0 repeat; margin:0 auto; }
+#header-content {width:100%; background:#E0E0E0; margin:0 auto; }
 .sub-page-banner {height:369px; margin:30px 0 30px 0;}
 .page2-banner {background:url(../images/page2-banner.jpg) 0 0px no-repeat;}
 .page3-banner {background:url(../images/page3-banner.jpg) 0 0px no-repeat;}
