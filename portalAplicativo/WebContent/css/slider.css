@@ -24,7 +24,7 @@
 }
 .banner {display:block; position:absolute; left:0px; top:103px; z-index:99; width:450px;}
 .banner p {margin-left:80px;}
-.banner strong { display:block; color:#fff; margin-top:-34px; }
+.banner strong { display:block; color:#333333; margin-top:-34px; }
 .banner strong:first-child {margin-top:0 !important;}
 .banner strong+strong+strong {margin-top:-23px !important;}
 .banner strong+strong+strong+strong {margin-top:-34px !important;}
